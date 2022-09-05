@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"added WEED"}
+{"version":"1.0.1", "notes":"added LOCALES and something settings for weed<3"}
